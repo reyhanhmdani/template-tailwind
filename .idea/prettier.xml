@@ -3,5 +3,7 @@
   <component name="PrettierConfiguration">
     <option name="myConfigurationMode" value="AUTOMATIC" />
     <option name="myRunOnSave" value="true" />
+    <option name="myRunOnReformat" value="true" />
+    <option name="customIgnorePath" value="C:\Coding\Template\template-tailwind-porto\.prettierignore" />
   </component>
 </project>
