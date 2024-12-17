@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa48f25d-1512-4cd8-ae8e-a296f53cb30f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/output.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/input.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/input.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.11.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.10.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.10.2&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Coding/Template/template-tailwind-porto/.prettierignore&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
@@ -89,7 +85,9 @@
       <workItem from="1733552520770" duration="1910000" />
       <workItem from="1733555156297" duration="3255000" />
       <workItem from="1733585908734" duration="1128000" />
-      <workItem from="1733725915547" duration="1548000" />
+      <workItem from="1733725915547" duration="1798000" />
+      <workItem from="1734400251891" duration="2164000" />
+      <workItem from="1734421116780" duration="1342000" />
     </task>
     <servers />
   </component>
